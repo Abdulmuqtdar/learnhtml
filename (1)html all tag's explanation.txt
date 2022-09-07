@@ -1,0 +1,55 @@
+10 <sup> 2 </sup> 10 uppar 2
+10 <sub> 2 <sub> 10 below 2
+<ol>  order list
+<ul>	unorder list
+<li>	list element
+<tr>	table row
+<td>	table data
+<th>	table heading
+<th rowspan = "2"> $50 </th> ////rows ko combine kary ga.
+<tr>
+<td colspan="2"> Sum;$180 </td>
+</tr>
+<textarea>
+<div> block-level element(horizontaly pori jaga lay ga)
+<span> inline element(itni hi jaga lay ga jitni cahiay)
+......................................
+1. description list:-
+	<dl>
+        <dt>coffee</dt>
+        <dd>this is coffee</dd>
+        <dt>milk</dt>
+        <dd>this is milk</dd>
+    </dl>
+...................................
+2. email link:- a tag maan href maan email address likhan gay.
+marquee tag:- moving text.tag maan jo text daan gay move kary ga.
+
+..................................
+3.way of creating table:-
+<table>
+<thead><tr><th> Name </th> <th> Roll No </th> <th> Marks </th> </tr> </thead>
+<tbody><th> Ali </th> <th> 51 </th> <th> 920 </th></tbody>
+<tfoot> <th rowspan "2"> Total </th> <th> 3750 </th> </tfoot>
+</table>
+.....................................
+4. Select-box:-
+
+<select >
+        <option value="lahore">lahore</option>
+        <option value="lahore">lahore</option>
+        <option value="lahore">lahore</option>
+        <option value="lahore">karachi</option>
+    </select>
+
+.....................................
+5. web form:-
+<form action="index.php" method="get"></form>
+
+........................................
+
+
+
+
+
+

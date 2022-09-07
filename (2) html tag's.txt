@@ -1,0 +1,125 @@
+1. Ifram:- ksisi aur ki website ko apnay website maan dikhany kay liay.
+
+<iframe src="https://www.youtube.com/" frameborder="5" height="500" width="300"></iframe>
+
+2. <audio controls src="audio.mp3"></audio>
+
+3. controls // autoplay 
+	 <video controls src="1656179670.mp4" height="500" width="300"></video>
+
+4. Embed pdf:-
+ 	embed  // iframe //  object
+
+5. Embed youtube vedio:-
+	vedio share option=>embed=>copy code and paste using iframe tag
+
+6. Embed map:-
+ 	goon share option of googlemap=>copy html code and paste using iframe tag
+
+7. &lt;div&gt; //&#60;div&#62;   // html entities w3school
+
+8. html symbols type in crome open website's copy symbol code and paste.
+
+9. emoji in html:- 
+
+10. semantic <table> // non-semantic element's <div>
+
+11. image map:- add weblink on image.
+
+12. Check-box:-	 <input type="checkbox"> AliRAza
+
+13.  Data list:-
+	<form >
+    search <input type="text" list="search">
+    <datalist id="search">
+        <option value="Apple">
+        <option value="Mango">
+            <option value="Green">
+    </datalist>
+    <input type="submit" value="search">
+  </form>
+14. Label // Fieldset  //  legends:-
+
+<form >
+    <div>
+        <label for="fname">First-Name</label>
+        <input type="text" name="First-Name" id="fname"><br>
+    </div>
+    <div>
+        <input type="submit">
+    </div>
+  </form>
+.......................................................................
+<form >
+    <div>
+        <fieldset>
+            <legend>Name:</legend>
+        <label for="fname">First-Name</label>
+        <input type="text" name="First-Name" id="fname"><br>
+    </fieldset>
+    </div>
+    <div>
+        <fieldset>
+            <legend>Submit:</legend>
+        <input type="submit"> </fieldset>
+    </div>
+  </form>
+
+15. SEO Tag's:-
+	title tag  // Description tag  // key word tag  //  canonical tag // robots tag  
+canonical tag:-
+ek hi content ko do page maan rakha ho to google rank nahin karta is liay cononical tag say google ko btatay hain
+dono page maan same content ha cononcial waly ko zada targi doo.
+
+robots tag :-
+index matlab search page maan dikhna ha za nahin no index likhan gay to nahin dikhay ga.
+follow matlab jo link lagay hain un ko search maan follow karo external link lagay hon to nofollow
+
+<title>home page</title>
+    <meta name="description" content="this is a page about new car"/>
+    <meta name="keywords" content="new , car"/>
+    <link rel="canonical" href="car.html" />
+    <meta name="robots" content="index,follow" />
+
+16. favicon:-\
+<link rel="icon" href="favicon.jpg" type="image/jpeg" size="">
+
+17. no script tag:-
+  javascrript load na hoa ho to za sms show ho us kay liay hota ha.
+
+18. OPen graph tag // twitter card tag:-
+
+.................search open graph tag on google crome=> copy markup example code => paste in header
+
+<meta property="og:title" content="How to Become an SEO Expert (8 Steps)" />
+<meta property="og:description" content="Get from SEO newbie to SEO pro in 8 simple steps." />
+<meta property="og:image" content="https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png" />
+
+..................twitter card tag search on google crome=> summary card=> 
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@flickr" />
+<meta name="twitter:title" content="Small Island Developing States Photo Submission" />
+<meta name="twitter:description" content="View the album on Flickr." />
+<meta name="twitter:image" content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg" />
+
+19. view port meta tag:- {to make website responsive}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+20. Right to left website's:-
+
+<html dir="rtl">  /// urdu arabic website kay liay rtl attribute use karain gay.
+
+21. w3c HTML validation:-world wide web consortium manage html.
+
+
+
+
+
+
+
+
+
+
+
+
